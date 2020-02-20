@@ -1,0 +1,21 @@
+{
+  "name": "shared-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/shared-components.umd.js",
+  "module": "fesm5/shared-components.js",
+  "es2015": "fesm2015/shared-components.js",
+  "esm5": "esm5/shared-components.js",
+  "esm2015": "esm2015/shared-components.js",
+  "fesm5": "fesm5/shared-components.js",
+  "fesm2015": "fesm2015/shared-components.js",
+  "typings": "shared-components.d.ts",
+  "metadata": "shared-components.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
